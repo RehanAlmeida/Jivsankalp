@@ -100,4 +100,4 @@ def get_current_location():
         return None, None
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(port=5000)
