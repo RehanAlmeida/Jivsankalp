@@ -233,12 +233,6 @@ font-family: 'Ubuntu', sans-serif;*/
     background-color: #999999;
     margin-top: 1rem;
   }
-
-  .feature_content img {
-    max-width: 50px; /* Adjust this value as needed */
-    height: auto;
-}
-
   .btn-lead:hover{
       background-color: #454545;
   }
